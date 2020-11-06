@@ -1,8 +1,8 @@
 # Trilha DevOps da 4Linux
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
-[![Build Status](https://travis-ci.com/Andre48d/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/Andre48d/DevOpsLab-HelloWorld)
 
+[![Build Status](https://travis-ci.com/Andre48d/frist-a-project.svg?branch=main)](https://travis-ci.com/Andre48d/frist-a-project)
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
 
